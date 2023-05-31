@@ -1,0 +1,1829 @@
+# Translation of Themes - Melos in Dutch
+# This file is distributed under the same license as the Themes - Melos package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-25 18:03:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Melos\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Melos is the free version of the multi-purpose professional theme (Melos Pro) ideal for a business or blog website. The theme has a responsive layout, HD retina ready and comes with a powerful theme options panel with can be used to make awesome changes without touching any code. The theme also comes with a full width easy to use slider. Easily add a logo to your site and create a beautiful homepage using the built-in homepage layout."
+msgstr "Melos is de gratis versie van de multifunctioneel professionele thema (Melos pro) ideaal voor een zakelijke of blog site. Het thema heeft een responsive lay-out, HD retina klaar en wordt geleverd met een krachtig thema opties paneel waarmee je geweldige wijzigingen kunt aanbrengen zonder enige code aan te raken. Het thema wordt ook geleverd met een volledige breedte, gemakkelijk te gebruiken slider. Voeg eenvoudig een logo toe aan je site en maak een mooie homepage met behulp van de ingebouwde homepage lay-out."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Melos"
+msgstr "Melos"
+
+#: lib/plugins/class-tgm-plugin-activation.php:3674
+msgid "Hide Details"
+msgstr "Verberg details"
+
+#: lib/plugins/class-tgm-plugin-activation.php:3674
+msgid "Show Details"
+msgstr "Toon details"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/plugins/class-tgm-plugin-activation.php:3669
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) aan het installeren"
+
+#: lib/plugins/class-tgm-plugin-activation.php:3667
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn afgerond."
+
+#. translators: 1: plugin name.
+#: lib/plugins/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed successfully."
+msgstr "%1$s is succesvol geïnstalleerd."
+
+#: lib/plugins/class-tgm-plugin-activation.php:3664
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatieproces begint. Dit proces kan een tijdje duren op sommige hosts, dus wees geduldig."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/plugins/class-tgm-plugin-activation.php:3661
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren en activeren van plugin %1$s (%2$d/%3$d)"
+
+#: lib/plugins/class-tgm-plugin-activation.php:3659
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen zijn afgerond."
+
+#. translators: 1: plugin name.
+#: lib/plugins/class-tgm-plugin-activation.php:3658
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s geïnstalleerd en met succes geactiveerd."
+
+#: lib/plugins/class-tgm-plugin-activation.php:3656
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatie- en activeringsproces is begonnen. Dit proces kan een tijdje duren op sommige hosts, dus wees geduldig."
+
+#. translators: 1: plugin name.
+#: lib/plugins/class-tgm-plugin-activation.php:3652
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/plugins/class-tgm-plugin-activation.php:3650
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Er is een fout opgetreden tijdens het installeren van %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/plugins/class-tgm-plugin-activation.php:3647
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) aan het updaten"
+
+#: lib/plugins/class-tgm-plugin-activation.php:3303
+msgid "Plugin activation failed."
+msgstr "Activering van de plugin mislukt."
+
+#: lib/plugins/class-tgm-plugin-activation.php:3079
+msgid "No plugins are available to be activated at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om te activeren."
+
+#: lib/plugins/class-tgm-plugin-activation.php:3053
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Er werden geen plugins geselecteerd om geactiveerd te worden. Geen actie ondernomen."
+
+#: lib/plugins/class-tgm-plugin-activation.php:2946
+msgid "No plugins are available to be updated at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om te worden geüpdatet."
+
+#: lib/plugins/class-tgm-plugin-activation.php:2944
+msgid "No plugins are available to be installed at this time."
+msgstr "Er zijn op dit moment geen plugins beschikbaar om te installeren."
+
+#: lib/plugins/class-tgm-plugin-activation.php:2903
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om te worden geüpdatet. Geen actie ondernomen."
+
+#: lib/plugins/class-tgm-plugin-activation.php:2901
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Er werden geen plugins geselecteerd om te worden geïnstalleerd. Geen actie ondernomen."
+
+#: lib/plugins/class-tgm-plugin-activation.php:2870
+msgid "Activate"
+msgstr "Activeer"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2867
+msgid "Update"
+msgstr "Update"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2861
+msgid "Install"
+msgstr "Installeer"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2828
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade bericht van de plugin auteur:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/plugins/class-tgm-plugin-activation.php:2756
+msgid "Activate %2$s"
+msgstr "Activeer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/plugins/class-tgm-plugin-activation.php:2750
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/plugins/class-tgm-plugin-activation.php:2745
+msgid "Install %2$s"
+msgstr "Installeer %2$s"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2696
+msgid "Status"
+msgstr "Status"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2695
+msgid "Version"
+msgstr "Versie"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2691
+msgid "Type"
+msgstr "Type"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2690
+msgid "Source"
+msgstr "Bron"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2689
+msgid "Plugin"
+msgstr "Plugin"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2675
+msgid "No plugins to install, update or activate."
+msgstr "Geen plugins te installeren, te updaten of te activeren."
+
+#: lib/plugins/class-tgm-plugin-activation.php:2652
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2640
+msgid "Minimum required version:"
+msgstr "Minimaal vereiste versie:"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2632
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2624
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#. translators: 1: number of plugins.
+#: lib/plugins/class-tgm-plugin-activation.php:2542
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Om er <span class=\"count\">(%s)</span> te activeren"
+msgstr[1] "Om er <span class=\"count\">(%s)</span> te activeren"
+
+#. translators: 1: number of plugins.
+#: lib/plugins/class-tgm-plugin-activation.php:2538
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Update beschikbaar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: lib/plugins/class-tgm-plugin-activation.php:2534
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Om er <span class=\"count\">(%s)</span> te installeren"
+msgstr[1] "Om er <span class=\"count\">(%s)</span> te installeren"
+
+#. translators: 1: number of plugins.
+#: lib/plugins/class-tgm-plugin-activation.php:2530
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: lib/plugins/class-tgm-plugin-activation.php:2484
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2475
+msgid "Update recommended"
+msgstr "Update aanbevolen"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2472
+msgid "Requires Update"
+msgstr "Vereist update"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2469
+msgid "Required Update not Available"
+msgstr "Vereiste update niet beschikbaar"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2461
+msgid "Installed But Not Activated"
+msgstr "Geinstalleerd maar niet geactiveerd"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2457
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2440
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2437
+msgid "External Source"
+msgstr "Externe bron"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2434
+msgid "WordPress Repository"
+msgstr "WordPress repository"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2418
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2415
+msgid "Required"
+msgstr "Vereist"
+
+#. translators: %s: version number
+#: lib/plugins/class-tgm-plugin-activation.php:2106
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: lib/plugins/class-tgm-plugin-activation.php:1237
+#: lib/plugins/class-tgm-plugin-activation.php:3093
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#: lib/plugins/class-tgm-plugin-activation.php:1048
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Het remote plugin pakket bestaat uit meer dan één bestand, maar de bestanden zijn niet verpakt in een map."
+
+#: lib/plugins/class-tgm-plugin-activation.php:1038
+#: lib/plugins/class-tgm-plugin-activation.php:1048
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Neem contact op met de plugin provider en vraag hen om hun plugin te verpakken volgens de WordPress richtlijnen."
+
+#: lib/plugins/class-tgm-plugin-activation.php:1038
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Het remote plugin pakket bevat geen map met de gewenste slug en het hernoemen werkte niet."
+
+#: lib/plugins/class-tgm-plugin-activation.php:731
+msgid "Set the parent_slug config variable instead."
+msgstr "Stel in plaats daarvan de parent_slug configuratie variabele in."
+
+#: lib/plugins/class-tgm-plugin-activation.php:616
+msgid "Update Required"
+msgstr "Update vereist"
+
+#: lib/plugins/class-tgm-plugin-activation.php:615
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Deze plugin moet worden geüpdatet om compatibel te zijn met je thema."
+
+#: lib/plugins/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem voor hulp contact op met de beheerder van deze site."
+
+#: lib/plugins/class-tgm-plugin-activation.php:408
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Er zijn een of meer vereiste of aanbevolen plugins om te installeren, te updaten of te activeren."
+
+#: lib/plugins/class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr "Negeer dit bericht"
+
+#. translators: 1: dashboard link.
+#: lib/plugins/class-tgm-plugin-activation.php:406
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins geïnstalleerd en met succes geactiveerd. %1$s"
+
+#. translators: 1: plugin name.
+#: lib/plugins/class-tgm-plugin-activation.php:404
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin niet geactiveerd. Voor dit thema is een hogere versie van %s nodig. Update de plugin."
+
+#. translators: 1: plugin name.
+#: lib/plugins/class-tgm-plugin-activation.php:402
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie ondernomen. Plugin %1$s was al actief."
+
+#: lib/plugins/class-tgm-plugin-activation.php:400
+#: lib/plugins/class-tgm-plugin-activation.php:3097
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plugin is succesvol geactiveerd:"
+msgstr[1] "De volgende plugins zijn succesvol geactiveerd:"
+
+#: lib/plugins/class-tgm-plugin-activation.php:399
+#: lib/plugins/class-tgm-plugin-activation.php:3304
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: lib/plugins/class-tgm-plugin-activation.php:398
+msgid "Return to the Dashboard"
+msgstr "Terug naar het dashboard"
+
+#: lib/plugins/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Terug naar vereiste plugins installer"
+
+#: lib/plugins/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin met het activeren van de plugin"
+msgstr[1] "Begin met het activeren van de plugins"
+
+#: lib/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Beginnen met updaten van de plugin"
+msgstr[1] "Begin met het updaten van de plugins"
+
+#: lib/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin met het installeren van de plugin"
+msgstr[1] "Begin met het installeren van de plugins"
+
+#. translators: 1: plugin name(s).
+#: lib/plugins/class-tgm-plugin-activation.php:377
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plugin is momenteel inactief: %1$s."
+msgstr[1] "De volgende aanbevolen plugins zijn momenteel inactief: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/plugins/class-tgm-plugin-activation.php:371
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende vereiste plugin is momenteel inactief: %1$s."
+msgstr[1] "De volgende vereiste plugins zijn momenteel inactief: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/plugins/class-tgm-plugin-activation.php:365
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Er is een update beschikbaar voor: %1$s."
+msgstr[1] "Er zijn updates beschikbaar voor de volgende plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/plugins/class-tgm-plugin-activation.php:359
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "De volgende plugin moet worden geüpdatet naar de nieuwste versie om maximale compatibiliteit met dit thema te garanderen: %1$s."
+msgstr[1] "De volgende plugins moeten worden geüpdatet naar hun nieuwste versie om maximale compatibiliteit met dit thema te garanderen: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/plugins/class-tgm-plugin-activation.php:353
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema beveelt de volgende plugin aan: %1$s."
+msgstr[1] "Dit thema beveelt de volgende plugins aan: %1$s."
+
+#. translators: 1: plugin name(s).
+#: lib/plugins/class-tgm-plugin-activation.php:347
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema vereist de volgende plugin: %1$s."
+msgstr[1] "Dit thema vereist de volgende plugins: %1$s."
+
+#: lib/plugins/class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#. translators: %s: plugin name.
+#: lib/plugins/class-tgm-plugin-activation.php:344
+msgid "Updating Plugin: %s"
+msgstr "Updaten plugin: %s"
+
+#. translators: %s: plugin name.
+#: lib/plugins/class-tgm-plugin-activation.php:342
+msgid "Installing Plugin: %s"
+msgstr "Installeren plugin: %s"
+
+#: lib/plugins/class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#: lib/plugins/class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr "Installeer vereiste plugins"
+
+#: admin/main-toolbox/toolbox.php:87
+msgid "Using the WordPress Customizer you can easily customize every aspect of the site in seconds with just a few clicks!"
+msgstr "Met behulp van de WordPress Customizer kun je eenvoudig elk aspect van de site in enkele seconden aanpassen met slechts een paar klikken!"
+
+#: admin/main-toolbox/toolbox.php:78
+msgid "Want more control? Add unlimited featured sections, change button text, disable cropping & more with %1$s Pro!"
+msgstr "Wil je meer controle? Voeg onbeperkt uitgelichte secties toe, verander knop tekst, schakel uitsnijden & meer in met %1$s Pro!"
+
+#: admin/main-toolbox/toolbox.php:78
+msgid "Go to Customizer -> Theme Options -> Homepage (Featured) to start adding content. Add up to 3 sections fast!"
+msgstr "Ga naar Customizer -> Thema-opties -> Homepage (aanbevolen) om inhoud toe te voegen. Voeg snel tot 3 secties toe!"
+
+#: admin/main-toolbox/toolbox.php:69
+msgid "Add a slider from Customizer -> Theme Options -> Home and choose Image Slider. Add up to 3 slides quickly!"
+msgstr "Voeg een slider toe vanuit Customizer -> Thema-opties -> Home en kies Afbeelding slider. Voeg snel tot 3 slides toe!"
+
+#: admin/main-toolbox/toolbox.php:61
+msgid "Get Started"
+msgstr "Aan de slag"
+
+#: admin/main-toolbox/toolbox.php:43
+msgid "Welcome to %1$s!"
+msgstr "Welkom bij %1$s!"
+
+#: admin/main-toolbox/toolbox.php:39
+msgid "Why %1$s (Free)"
+msgstr "Waarom %1$s (gratis)"
+
+#: admin/main-toolbox/toolbox-class.php:155
+#: admin/main-toolbox/toolbox-class.php:156
+msgid "Guide"
+msgstr "Gids"
+
+#: image.php:18
+msgid "in"
+msgstr "in"
+
+#: image.php:18
+msgid "at"
+msgstr "op"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Ga naar de inhoud"
+
+#: 404.php:11
+msgid "404"
+msgstr "404"
+
+#: functions.php:252
+msgid "Sub-Footer Column 2"
+msgstr "Sub footer kolom 2"
+
+#: functions.php:243
+msgid "Sub-Footer Column 1"
+msgstr "Sub footer kolom 1"
+
+#: functions.php:233
+msgid "Footer Column 6"
+msgstr "Footer kolom 6"
+
+#: functions.php:224
+msgid "Footer Column 5"
+msgstr "Footer kolom 5"
+
+#: functions.php:215
+msgid "Footer Column 4"
+msgstr "Footer kolom 4"
+
+#: functions.php:206
+msgid "Footer Column 3"
+msgstr "Footer kolom 3"
+
+#: functions.php:197
+msgid "Footer Column 2"
+msgstr "Footer kolom 2"
+
+#: functions.php:188
+msgid "Footer Column 1"
+msgstr "Footer kolom 1"
+
+#: functions.php:178
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: admin/main/options.php:2914
+msgid "We&#39;re glad you asked! Here&#39;s just some of the amazing features you&#39;ll get when you upgrade&hellip;"
+msgstr "We zijn blij dat je het hebt gevraagd! Hier zijn slechts enkele van de geweldige functies die je krijgt wanneer je upgrade&hellip;"
+
+#: admin/main/options.php:2913
+msgid "So&hellip; Why upgrade?"
+msgstr "Dus&hellip; waarom upgraden?"
+
+#: admin/main/options.php:2911
+msgid "melos31"
+msgstr "melos31"
+
+#: admin/main/options.php:2874
+msgid "Switch on to enable social media sharing.."
+msgstr "Zet aan om sociale media te delen.."
+
+#: admin/main/options.php:2792
+msgid "Control Single Post Page"
+msgstr "Beheer enkelvoudig berichtpagina"
+
+#: admin/main/options.php:2768
+msgid "Hide article"
+msgstr "Verberg artikel"
+
+#: admin/main/options.php:2767
+msgid "Show full article"
+msgstr "Toon volledig artikel"
+
+#: admin/main/options.php:2766
+msgid "Show excerpt"
+msgstr "Toon samenvatting"
+
+#: admin/main/options.php:2740
+msgid "Style 2 (Full Width)"
+msgstr "Stijl 2 (volledige breedte)"
+
+#: admin/main/options.php:2739
+msgid "Style 1 (Quarter Width)"
+msgstr "Stijl 1 (kwartbreedte)"
+
+#: admin/main/options.php:2654
+msgid "Control Blog (Archive) Pages"
+msgstr "Beheer blog (Archief) pagina's"
+
+#: admin/main/options.php:2580
+msgid "Input the url to your RSS feed."
+msgstr "Voer de url in naar je RSS feed."
+
+#: admin/main/options.php:2504
+msgid "Check to use custom YouTube icon"
+msgstr "Vink aan om een aangepast YouTube pictogram te gebruiken"
+
+#: admin/main/options.php:2481
+msgid "Input the url to your YouTube page."
+msgstr "Voer de url in naar je YouTube pagina."
+
+#: admin/main/options.php:2405
+msgid "Check to use custom Flickr icon"
+msgstr "Vink aan om een aangepast Flickr pictogram te gebruiken"
+
+#: admin/main/options.php:2382
+msgid "Input the url to your Flickr page."
+msgstr "Voer de url in van je Flickr pagina."
+
+#: admin/main/options.php:2306
+msgid "Check to use custom LinkedIn icon"
+msgstr "Vink aan om een aangepast LinkedIn pictogram te gebruiken"
+
+#: admin/main/options.php:2283
+msgid "Input the url to your LinkedIn page."
+msgstr "Voer de url in naar je LinkedIn pagina."
+
+#: admin/main/options.php:2207
+msgid "Check to use custom Google+ icon"
+msgstr "Vink aan om aangepast Google+ pictogram te gebruiken"
+
+#: admin/main/options.php:2184
+msgid "Input the url to your Google+ page."
+msgstr "Voer de url in naar je Google+ pagina."
+
+#: admin/main/options.php:2108
+msgid "Check to use custom Twitter icon"
+msgstr "Vink aan om een aangepast Twitter pictogram te gebruiken"
+
+#: admin/main/options.php:2085
+msgid "Input the url to your Twitter page."
+msgstr "Voer de url naar je Twitter pagina in."
+
+#: admin/main/options.php:2009
+msgid "Check to use custom Facebook icon"
+msgstr "Vink aan om een aangepast Facebook pictogram te gebruiken"
+
+#: admin/main/options.php:2008 admin/main/options.php:2107
+#: admin/main/options.php:2206 admin/main/options.php:2305
+#: admin/main/options.php:2404 admin/main/options.php:2503
+#: admin/main/options.php:2602
+msgid "Custom Icon"
+msgstr "Aangepast pictogram"
+
+#: admin/main/options.php:1986
+msgid "Input the url to your Facebook page."
+msgstr "Voer de url naar je Facebook pagina in."
+
+#: admin/main/options.php:1910
+msgid "Social Media Content"
+msgstr "Inhoud voor sociale media"
+
+#: admin/main/options.php:1823
+msgid "Social Media Control"
+msgstr "Beheer sociale media"
+
+#: admin/main/options.php:1693
+msgid "Control Footer Content"
+msgstr "Beheer footer inhoud"
+
+#: admin/main/options.php:1635
+msgid "Control Header Content"
+msgstr "Beheer header inhoud"
+
+#: admin/main/options.php:1580
+msgid "Style 2 (Light)"
+msgstr "Stijl 2 (licht)"
+
+#: admin/main/options.php:1579
+msgid "Style 1 (Dark)"
+msgstr "Stijl 1 (donker)"
+
+#: admin/main/options.php:1552
+msgid "Control Pre-Header Content"
+msgstr "Bestuur pre-header inhoud"
+
+#: admin/main/options.php:1208
+msgid "Display Pre-Designed Homepage"
+msgstr "Toon voorontworpen homepage"
+
+#: admin/main/options.php:1132
+msgid "Disable Link"
+msgstr "Link uitschakelen"
+
+#: admin/main/options.php:1131
+msgid "Specify Custom link"
+msgstr "Specificeer aangepaste link"
+
+#: admin/main/options.php:1130
+msgid "Link to a Page"
+msgstr "Link naar een pagina"
+
+#: admin/main/options.php:830
+msgid "Slide 3"
+msgstr "Slide 3"
+
+#: admin/main/options.php:707
+msgid "Slide 2"
+msgstr "Slide 2"
+
+#: admin/main/options.php:612 admin/main/options.php:735
+#: admin/main/options.php:858
+msgid "Image"
+msgstr "Afbeelding"
+
+#: admin/main/options.php:584
+msgid "Slide 1"
+msgstr "Slide 1"
+
+#: admin/main/options.php:560
+msgid "Image Slider"
+msgstr "Afbeelding slider"
+
+#: admin/main/options.php:450
+msgid "Control Homepage Layout"
+msgstr "Beheer lay-out homepage"
+
+#: admin/main/options.php:418
+msgid "Switch on to backup your theme options settings each time the customizer is updated and saved. If enabled then a new page called \"ThinkUp Created Content Backup\" will be created where the option values can be found."
+msgstr "Schakel in om een back-up te maken van je instellingen voor thema-opties telkens wanneer de customizer wordt geüpdatet en opgeslagen. Indien ingeschakeld, wordt een nieuwe pagina met de naam \"ThinkUp Created Content Backup\" gemaakt waar de optiewaarden kunnen worden gevonden."
+
+#: admin/main/options.php:390 admin/main/options.php:417
+msgid "Backup Theme Options"
+msgstr "Back-up thema opties"
+
+#: admin/main/options.php:368
+msgid "Specify a custom delimiter to use instead of the default &#40; / &#41;."
+msgstr "Geef een aangepast scheidingsteken op om te gebruiken in plaats van de standaard &#40;/&#41;."
+
+#: admin/main/options.php:309
+msgid "(i.e. Disable responsive layout)"
+msgstr "(d.w.z. schakel responsive lay-out uit)"
+
+#: admin/main/options.php:253
+msgid "Select page layout. This will only be applied to published Pages."
+msgstr "Selecteer pagina lay-out. Dit wordt alleen toegepast op gepubliceerde pagina's."
+
+#: admin/main/options.php:225
+msgid "Page Structure"
+msgstr "Structuur van de pagina"
+
+#: admin/main/options.php:200
+msgid "Since WordPress v4.5 you can now add a site logo using the native WordPress options. To add a site logo go the \"Site Identitiy\" settings on the main customizer screen."
+msgstr "Sinds WordPress v4.5 kun je nu een sitelogo toevoegen met behulp van de native WordPress opties. Om een site logo toe te voegen, ga je naar de \"Site identiteit\" instellingen op het hoofdscherm van de Customizer."
+
+#: admin/main/options.php:52
+msgid "View Docs"
+msgstr "Bekijk docs"
+
+#: admin/main/options.php:35
+msgid "Melos Pro"
+msgstr "Melo Pro"
+
+#: admin/main/options/04.footer.php:240
+msgid "Theme by %1$s. Powered by %2$s."
+msgstr "Thema door %1$s. Aangedreven door %2$s."
+
+#: admin/main/options/01.general-settings.php:490
+msgid "You can delete this page any time and regenerate it from within the Melos options menu, General section."
+msgstr "Je kunt deze pagina op elk moment verwijderen en opnieuw genereren vanuit het menu Melos opties, Sectie algemeen."
+
+#: admin/main/options/01.general-settings.php:489
+msgid "Leave this page as private, available only to users with admin privledges."
+msgstr "Laat deze pagina privé, alleen beschikbaar voor gebruikers met beheerdersrechten."
+
+#: admin/main/options/01.general-settings.php:488
+msgid "Please note the following : "
+msgstr "Let op het volgende: "
+
+#: admin/main/options/01.general-settings.php:487
+msgid "When a user switches themes this content will still be available to the user when setting up their site on the new theme."
+msgstr "Wanneer een gebruiker van thema wisselt, is deze inhoud nog steeds beschikbaar voor de gebruiker bij het instellen van zijn site op het nieuwe thema."
+
+#: admin/main/options/01.general-settings.php:486
+msgid "The purpose for the backup is to prevent content loss on theme switch."
+msgstr "Het doel van de back-up is om inhoudsverlies bij het wisselen van thema te voorkomen."
+
+#: admin/main/options/01.general-settings.php:485
+msgid "This page contains a backup of content created by the Melos WordPress Theme. "
+msgstr "Deze pagina bevat een back-up van inhoud die is gemaakt door het Melos WordPress thema "
+
+#: admin/main/options/01.general-settings.php:484
+msgid "Melos Created Content Backup"
+msgstr "Melos heeft back-up van inhoud gemaakt"
+
+#: admin/main/options/02.homepage.php:314
+msgid "To begin customizing your site go to Appearance &#45;&#62; Customizer and select Theme Options. Here&#39;s you&#39;ll find custom options to help build your site."
+msgstr "Om je site aan te passen ga je naar Weergave &#45;&#62; Customizer en selecteer je thema-opties. Hier vind je aangepaste opties om je site te bouwen."
+
+#: admin/main/options/02.homepage.php:310
+msgid "Step 3 &#45; Create Homepage"
+msgstr "Stap 3 &#45; Voorpagina maken"
+
+#: admin/main/options/02.homepage.php:309
+msgid "Step 2 &#45; Setup Slider"
+msgstr "Stap 2 &#45; Instellen slider"
+
+#: admin/main/options/02.homepage.php:308
+msgid "Step 1 &#45; Theme Options"
+msgstr "Stap 1 &#45; Thema opties"
+
+#: admin/main/options/02.homepage.php:184
+#: admin/main/options/02.homepage.php:185
+#: admin/main/options/02.homepage.php:186
+msgid "Demo Image"
+msgstr "Demo afbeelding"
+
+#: admin/main-toolbox/toolbox.php:299
+msgid "Show Author Bio"
+msgstr "Biografie van auteur tonen"
+
+#: admin/main-toolbox/toolbox.php:278
+msgid "<p>Get more with %1$s Pro!</p><ul><li>Create unlimited blog pages.</li><li>Choose your own excerpt length.</li><li>Different layouts for different blogs.</li><li>Plus much more!</li></ul>"
+msgstr "<p>Krijg meer met %1$s Pro!</p><ul><li>Maak onbeperkt blog pagina's.</li><li>Kies je eigen samenvatting lengte.</li><li>Verschillende lay-outs voor verschillende blogs.</li><li>En nog veel meer!</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:240
+msgid "<p>Turn this on if you want to disable the main footer area entirely.</p>"
+msgstr "<p>Schakel dit in als je het hoofd footer gebied volledig wil uitschakelen.</p>"
+
+#: admin/main-toolbox/toolbox.php:229 admin/main-toolbox/toolbox.php:241
+msgid "<p>Want your own copyright message?</p><p>That's right! With %1$s Pro you can change the footer copyright message in seconds straight from the theme options panel!</p>"
+msgstr "<p>Wil je je eigen copyright bericht?</p><p>Dat klopt! Met %1$s Pro kun je de footer copyright bericht in seconden veranderen, rechtstreeks vanuit het thema-opties paneel!</p>"
+
+#: admin/main-toolbox/toolbox.php:216
+msgid "<p>Turn this on to add a search box to your website. The search box will display at top of your website.</p>"
+msgstr "<p>Schakel dit in om een zoek box aan je site toe te voegen. De zoek box wordt bovenaan je site weergegeven.</p>"
+
+#: admin/main-toolbox/toolbox.php:205
+msgid "<p>Get more with %1$s Pro!</p><ul><li>Unlimited featured sections.</li><li>Add featured sections to inner pages.</li><li>Change \"Read More\" button.</li><li>Add a link to any url.</li><li>Plus much more!</li></ul>"
+msgstr "<p>Krijg meer met %1$s Pro!</p><ul><li>Onbeperkt uitgelichte secties.</li><li>Voeg uitgelichte secties toe aan binnenpagina's.</li><li>Wijzig \"Lees meer\" knop.</li><li>Voeg een link toe aan elke url.</li><li>Plus nog veel meer!</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:202
+msgid "Pre-Made Homepage<span class=\"hidden\">Icon</span>"
+msgstr "Pre-Made homepage <span class=\"hidden\">Pictogram</span>"
+
+#: admin/main-toolbox/toolbox.php:193
+msgid "<p>Get more with %1$s Pro!</p><ul><li>Unlimited featured sections.</li><li>Add featured sections to inner pages.</li><li>Disable Image cropping.</li><li>Change \"Read More\" button.</li><li>Add a link to any url.</li><li>Plus much more!</li></ul>"
+msgstr "<p>Krijg meer met %1$s Pro!</p><ul><li>Onbeperkt uitgelichte secties.</li><li>Voeg uitgelichte secties toe aan binnenpagina's.</li><li>Afbeelding bijsnijden uitschakelen.</li><li>Wijzig \"Lees meer\" knop.</li><li>Voeg een link toe aan elke url.</li><li>En nog veel meer!</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:190
+msgid "Pre-Made Homepage<span class=\"hidden\">Image</span>"
+msgstr "Vooraf gemaakte homepage- <span class=\"hidden\">afbeelding</span>"
+
+#: admin/main-toolbox/toolbox.php:181
+msgid "<p>Get more with %1$s Pro!</p><p>Add a call to action to every page of your site, not just the homepage.</p><p>Get your visitors attention on every page!</p>"
+msgstr "<p>Verkrijg meer met %1$s Pro!</p><p>Voeg een Call To Action toe aan elke pagina van je site, niet alleen aan de voorpagina.</p><p>Trek de aandacht van je bezoekers op elke pagina!</p>"
+
+#: admin/main-toolbox/toolbox.php:178
+msgid "Call To Action - Outro"
+msgstr "Call To Action - Outro"
+
+#: admin/main-toolbox/toolbox.php:166 admin/main/options.php:1009
+msgid "Call To Action - Intro"
+msgstr "Call To Action - Intro"
+
+#: admin/main-toolbox/toolbox.php:157
+msgid "<p>Get more with %1$s Pro!</p><ul><li>Unlimited slides.</li><li>Sliders for inner pages.</li><li>Video sliders.</li><li>Change <i>\"Read More\"</i> button.</li><li>Image only slides (no button).</li><li>Control transition speed.</li><li>Plus much more!</li></ul>"
+msgstr "<p>Verkrijg meer met %1$s Pro!</p><ul><li>Onbeperkte slide's.</li><li>Sliders voor binnenpagina's.</li><li>Video sliders.</li><li>Wijzig de<i>Meer lezen</i>knop.</li><li>Slide's met alleen afbeelding (geen knop).</li><li>Regel de overgangssnelheid.</li><li>En nog veel meer!</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:154 admin/main/options.php:533
+msgid "Homepage Slider"
+msgstr "Homepage slider"
+
+#: admin/main-toolbox/toolbox.php:132
+msgid "<p>Turn on to display site wide breadcrumbs. These are displayed at the top of each page and show the parent pages of the current page being viewed.</p><p>By default a forward slash (/) will be used to separate pages in the breadcrumb. If you prefer to use a different separator you can specify this using the delimiter input field.</p>"
+msgstr "<p>Aanzetten om site brede kruimelpaden weer te geven. Deze staan bovenaan elke pagina en tonen de hoofd pagina's van de huidige pagina die wordt bekeken.</p><p>Standaard wordt een forward slash (/) gebruikt om pagina's in de kruimelpad te scheiden. Als je liever een ander scheidingsteken gebruikt, kun je dit aangeven in het invoerveld voor scheidingstekens.</p>"
+
+#: admin/main-toolbox/toolbox.php:121
+msgid "<p>Get more with %1$s Pro!</p><p>Create beautiful responsive content without coding. Use our amazing drag & drop page builder and build websites with ease.</p><p>Look great on every device!</p>"
+msgstr "<p>Krijg meer met %1$s Pro!</p><p>Maak prachtige responsive inhoud zonder codering. Gebruik onze geweldige verslepen pagina bouwer en bouw sites met gemak.</p><p>Zie er geweldig uit op elk apparaat!</p>"
+
+#: admin/main-toolbox/toolbox.php:109 admin/main-toolbox/toolbox.php:145
+#: admin/main-toolbox/toolbox.php:265 admin/main-toolbox/toolbox.php:290
+msgid "<p>Get more with %1$s Pro!</p><ul><li>Create unlimited sidebars.</li><li>Add a different sidebar to different pages.</li><li>Add sidebar layouts to specific pages only.</li><li>Plus much more!</li></ul>"
+msgstr "<p>Krijg meer met %1$s Pro!</p><ul><li>Maak onbeperkt zijbalken.</li><li>Voeg een verschillende zijbalk toe aan verschillende pagina's.</li><li>Voeg zijbalk lay-outs toe aan specifieke pagina's.</li><li>En nog veel meer!</li></ul>"
+
+#: admin/main-toolbox/toolbox.php:99
+msgid "How to find what you're looking for."
+msgstr "Hoe vind je wat je zoekt."
+
+#: admin/main-toolbox/toolbox.php:98
+msgid "Intro"
+msgstr "Intro"
+
+#: admin/main-toolbox/toolbox.php:62 admin/main/options.php:50
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: admin/main-toolbox/toolbox.php:537
+msgid "No credit footer link"
+msgstr "Geen credit footer link"
+
+#: admin/main-toolbox/toolbox.php:519
+msgid "Extended Layout Options"
+msgstr "Uitgebreide lay-out opties"
+
+#: admin/main-toolbox/toolbox.php:510
+msgid "Animation Effects"
+msgstr "Animatie effecten"
+
+#: admin/main-toolbox/toolbox.php:501
+msgid "Parallax Effects"
+msgstr "Parallax effecten"
+
+#: admin/main-toolbox/toolbox.php:492
+msgid "Custom Widgets"
+msgstr "Aangepaste widgets"
+
+#: admin/main-toolbox/toolbox.php:483
+msgid "Google Map Section"
+msgstr "Google Map sectie"
+
+#: admin/main-toolbox/toolbox.php:465
+msgid "Video Sliders"
+msgstr "Video sliders"
+
+#: admin/main-toolbox/toolbox.php:456
+msgid "Unlimited Sliders"
+msgstr "Onbeperkte sliders"
+
+#: admin/main-toolbox/toolbox.php:447
+msgid "ThinkUpSlider"
+msgstr "ThinkUpSlider"
+
+#: admin/main-toolbox/toolbox.php:438
+msgid "150+ Shortcodes"
+msgstr "150+ kortcodes"
+
+#: admin/main-toolbox/toolbox.php:429
+msgid "600+ Google Fonts"
+msgstr "600+ Google Fonts"
+
+#: admin/main-toolbox/toolbox.php:420
+msgid "Unlimited Color Options"
+msgstr "Onbeperkte kleurmogelijkheden"
+
+#: admin/main-toolbox/toolbox.php:402
+msgid "Page Builder"
+msgstr "Pagina bouwer"
+
+#: admin/main-toolbox/toolbox.php:393
+msgid "Advanced Theme Options"
+msgstr "Geavanceerde thema opties"
+
+#: admin/main-toolbox/toolbox.php:384
+msgid "Built-In Social Buttons"
+msgstr "Ingebouwde sociale knoppen"
+
+#: admin/main-toolbox/toolbox.php:375
+msgid "Fontpage Slides"
+msgstr "Voorpagina slides"
+
+#: admin/main-toolbox/toolbox.php:366
+msgid "Fontpage Sections"
+msgstr "Voorpagina secties"
+
+#: admin/main-toolbox/toolbox.php:357
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+#: admin/main-toolbox/toolbox.php:348
+msgid "Mobile Friendly"
+msgstr "Mobiel vriendelijk"
+
+#: admin/main-toolbox/toolbox.php:345
+msgid "Get %s Now!"
+msgstr "Krijg %s nu!"
+
+#: admin/main-toolbox/toolbox.php:110 admin/main-toolbox/toolbox.php:122
+#: admin/main-toolbox/toolbox.php:134 admin/main-toolbox/toolbox.php:146
+#: admin/main-toolbox/toolbox.php:158 admin/main-toolbox/toolbox.php:170
+#: admin/main-toolbox/toolbox.php:182 admin/main-toolbox/toolbox.php:194
+#: admin/main-toolbox/toolbox.php:206 admin/main-toolbox/toolbox.php:218
+#: admin/main-toolbox/toolbox.php:230 admin/main-toolbox/toolbox.php:242
+#: admin/main-toolbox/toolbox.php:254 admin/main-toolbox/toolbox.php:266
+#: admin/main-toolbox/toolbox.php:279 admin/main-toolbox/toolbox.php:291
+#: admin/main-toolbox/toolbox.php:303 admin/main-toolbox/toolbox.php:334
+msgid "Get %1$s Pro"
+msgstr "Verkrijg %1$s Pro"
+
+#: admin/main-toolbox/toolbox.php:333
+msgid "Get VIP access to the knowledge base, personal ticket support and much more so you can make the most out of %1$s!"
+msgstr "Krijg VIP toegang tot de kennisbank, persoonlijke ticketondersteuning en nog veel meer, zodat je het meeste uit %1$s kunt halen!"
+
+#: admin/main-toolbox/toolbox.php:333
+msgid "Get support from the brains behind %1$s. Upgrade to %1$s Pro and you'll get help straight from the theme developers!"
+msgstr "Krijg steun van het brein achter %1$s. Upgrade naar %1$s Pro en je krijgt rechtstreeks hulp van de thema-ontwikkelaars!"
+
+#: admin/main-toolbox/toolbox.php:331 admin/main-toolbox/toolbox.php:528
+msgid "Premium Support"
+msgstr "Premium ondersteuning"
+
+#: admin/main-toolbox/toolbox.php:324
+msgid "Want to know what's been happing with the latest changes? Take a look at the changelog. Your can find this in the themes readme.txt file."
+msgstr "Wil je weten wat er met de laatste veranderingen aan de hand is? Bekijk de wijzigingslog. Je kunt dit vinden in het thema readme.txt bestand."
+
+#: admin/main-toolbox/toolbox.php:322
+msgid "Changelog"
+msgstr "Wijzigingslog"
+
+#: admin/main-toolbox/toolbox.php:316
+msgid "Contact Free Support"
+msgstr "Neem contact op voor gratis ondersteuning"
+
+#: admin/main-toolbox/toolbox.php:313
+msgid "Free Support"
+msgstr "Gratis ondersteuning"
+
+#: admin/main-toolbox/toolbox.php:86 admin/main-toolbox/toolbox.php:88
+msgid "Go to Customizer"
+msgstr "Ga naar customizer"
+
+#: admin/main-toolbox/toolbox.php:77
+msgid "Setup Homepage"
+msgstr "Instellen homepage"
+
+#: admin/main-toolbox/toolbox.php:70 admin/main-toolbox/toolbox.php:79
+msgid "View %1$s Pro"
+msgstr "Bekijk %1$s Pro"
+
+#: admin/main-toolbox/toolbox.php:69
+msgid "Want more slides? With %1$s Pro you can add as many slides as you want! Plus add video slides and much more!"
+msgstr "Wil je meer slides? Met %1$s Pro kun je zoveel slides toevoegen als je wilt! Plus voeg video slides toe en nog veel meer!"
+
+#: admin/main-toolbox/toolbox.php:68
+msgid "Setup Slideshow"
+msgstr "Slide voorstelling instellen"
+
+#: admin/main-toolbox/toolbox.php:60
+msgid "Free VS PRO"
+msgstr "Gratis VS PRO"
+
+#: admin/main-toolbox/toolbox-class.php:177
+#: admin/main-toolbox/toolbox-class.php:178 admin/main-toolbox/toolbox.php:57
+#: admin/main/options.php:37 admin/main/options.php:2912
+msgid "Upgrade Now"
+msgstr "Upgrade nu"
+
+#: admin/main-toolbox/toolbox.php:55 admin/main/options.php:2910
+msgid "Normally $35. Use coupon at checkout."
+msgstr "Normaal $ 35. Gebruik waardebon bij het afrekenen."
+
+#: admin/main-toolbox/toolbox.php:54 admin/main/options.php:2909
+msgid "Upgrade for $31 (10% off)"
+msgstr "Upgrade voor $31 (10% korting)"
+
+#: admin/main-toolbox/toolbox.php:41
+msgid "About %1$s (Free)"
+msgstr "Over %1$s (gratis)"
+
+#: admin/main-toolbox/toolbox-class.php:604
+msgid "You do not have the necessary permission to perform this action."
+msgstr "Je hebt niet de benodigde toestemming om deze actie uit te voeren."
+
+#: admin/main-toolbox/toolbox-class.php:601
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Actie mislukt. Vernieuw de pagina en probeer het opnieuw."
+
+#: admin/main-toolbox/toolbox-class.php:222
+msgid "Dismiss this notice."
+msgstr "Negeer deze melding."
+
+#: admin/main/options/00.theme-setup.php:350
+msgid "Quarter - 3:4"
+msgstr "Kwart - 3:4"
+
+#: admin/main/options/00.theme-setup.php:349
+msgid "Quarter - 2:3"
+msgstr "Kwart - 2:3"
+
+#: admin/main/options/00.theme-setup.php:348
+msgid "Quarter - 1:1"
+msgstr "Kwart - 1:1"
+
+#: admin/main/options/00.theme-setup.php:345
+msgid "Third - 3:4"
+msgstr "Derde - 3:4"
+
+#: admin/main/options/00.theme-setup.php:344
+msgid "Third - 2:3"
+msgstr "Derde - 2:3"
+
+#: admin/main/options/00.theme-setup.php:343
+msgid "Third - 2:5"
+msgstr "Derde - 2:5"
+
+#: admin/main/options/00.theme-setup.php:342
+msgid "Third - 1:1"
+msgstr "Derde - 1:1"
+
+#: admin/main/options/00.theme-setup.php:339
+msgid "Half - 3:5"
+msgstr "Half - 3:5"
+
+#: admin/main/options/00.theme-setup.php:338
+msgid "Half - 2:3"
+msgstr "Half - 2:3"
+
+#: admin/main/options/00.theme-setup.php:337
+msgid "Half - 1:2"
+msgstr "Half - 1:2"
+
+#: admin/main/options/00.theme-setup.php:336
+msgid "Half - 1:1"
+msgstr "Half - 1:1"
+
+#: admin/main/options/00.theme-setup.php:333
+msgid "Full - 2:5"
+msgstr "Vol - 2:5"
+
+#: admin/main/options/00.theme-setup.php:332
+msgid "Full - 1:4"
+msgstr "Volledig - 1:4"
+
+#: admin/main/options/00.theme-setup.php:331
+msgid "Full - 1:3"
+msgstr "Volledig - 1:3"
+
+#: admin/main/options/00.theme-setup.php:330
+msgid "Full - 1:2"
+msgstr "Vol - 1:2"
+
+#: functions.php:85
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: functions.php:84
+msgid "Primary Header Menu"
+msgstr "Primaire header menu"
+
+#: functions.php:83
+msgid "Pre Header Menu"
+msgstr "Menu voor header"
+
+#: admin/main-toolbox/toolbox.php:189 admin/main-toolbox/toolbox.php:201
+#: admin/main/options.php:93
+msgid "Homepage (Featured)"
+msgstr "Homepage (Uitgelicht)"
+
+#. Template Name of the theme
+msgid "No Background"
+msgstr "Geen achtergrond"
+
+#: admin/main/options/05.blog.php:179 admin/main/options/05.blog.php:183
+#: content-page.php:12 content-single.php:16 content.php:29 image.php:71
+#: single.php:14
+msgid "Pages:"
+msgstr "Pagina’s:"
+
+#: sidebar.php:18
+msgid "Remove this message by adding widgets to the Sidebar from the Widgets section of the WordPress admin area."
+msgstr "Verwijder dit bericht door widgets toe te voegen aan de zijbalk van de widget sectie in het WordPress beheer gebied."
+
+#: searchform.php:9 searchform.php:10
+msgid "Search"
+msgstr "Zoek"
+
+#: no-results.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat wij niet kunnen vinden wat jij zoekt. Wellicht dat de zoekfunctie kan helpen."
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Er kwam niets overeen met je zoektermen. Probeer het nog eens met wat andere keywords."
+
+#: no-results.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Ga hier aan de slag</a>."
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: lib/functions/template-tags.php:44
+msgid "Newer posts"
+msgstr "Nieuwere berichten"
+
+#: lib/functions/template-tags.php:40
+msgid "Older posts"
+msgstr "Oudere berichten"
+
+#: lib/functions/template-tags.php:35 lib/functions/template-tags.php:67
+msgid "Next"
+msgstr "Verder"
+
+#: lib/functions/template-tags.php:34 lib/functions/template-tags.php:66
+msgid "Previous"
+msgstr "Vorige"
+
+#: image.php:18
+msgid "Return to "
+msgstr "Terug naar"
+
+#: image.php:18
+msgid "Link to full-size image"
+msgstr "Link naar volledig formaat afbeelding"
+
+#: image.php:18
+msgid "Published "
+msgstr "Gepubliceerd"
+
+#: comments.php:84
+msgid "Your Website"
+msgstr "Jouw website"
+
+#: comments.php:80
+msgid "Your Email (Required)"
+msgstr "Je e-mail (vereist)"
+
+#: comments.php:76
+msgid "Your Name (Required)"
+msgstr "Je naam (vereist)"
+
+#: comments.php:71
+msgid "Your Message"
+msgstr "Je bericht"
+
+#: comments.php:67
+msgid "Leave Comment"
+msgstr "Reactie achterlaten"
+
+#: comments.php:66
+msgid "Submit Now"
+msgstr "Verzend nu"
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:33 comments.php:44
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: comments.php:32 comments.php:43
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: comments.php:23
+msgid "<span>%1$s</span> Comments"
+msgid_plural "<span>%1$s</span> Comments"
+msgstr[0] "<span>%1$s</span> reactie"
+msgstr[1] "<span>%1$s</span> reacties"
+
+#: admin/main/options.php:143
+msgid "Upgrade (10% off)"
+msgstr "Upgrade (10% korting)"
+
+#: admin/main-toolbox/toolbox.php:63
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: admin/main/options.php:2873
+msgid "Show Social Sharing"
+msgstr "Toon sociaal delen"
+
+#: admin/main/options.php:2818
+msgid "Select blog page layout. This will only be applied to individual posts and not the main blog page."
+msgstr "Selecteer blogpagina lay-out. Dit zal alleen worden toegepast op individuele berichten en niet op de hoofdpagina van de blog."
+
+#: admin/main-toolbox/toolbox.php:287 admin/main/options.php:2817
+msgid "Post Layout"
+msgstr "Bericht lay-out"
+
+#: admin/main/options.php:2764
+msgid "Control how much content you want to show from each post on the main blog page. Remember to control the full article content by using the WordPress <a href=\"http://en.support.wordpress.com/splitting-content/more-tag/\">more</a> tag in your post."
+msgstr "Beheer hoeveel inhoud je wil tonen van elke bericht op de hoofdpagina van je blog. Vergeet niet om de volledige inhoud van het artikel te beheren door de WordPress <a href=\"http://en.support.wordpress.com/splitting-content/more-tag/\">meer</a> tag te gebruiken in je bericht."
+
+#: admin/main-toolbox/toolbox.php:274 admin/main/options.php:2763
+msgid "Post Content"
+msgstr "In de content"
+
+#: admin/main/options.php:2737
+msgid "Select a layout for your blog page. This will also be applied to all pages set using the blog template."
+msgstr "Selecteer een lay-out voor je blogpagina. Dit wordt ook toegepast op alle pagina's die zijn ingesteld met behulp van de blog template."
+
+#: admin/main/options.php:2736
+msgid "Blog Traditional Layout"
+msgstr "Blog traditionele lay-out"
+
+#: admin/main/options.php:2712
+msgid "Note: Sidebars will not be applied to homepage Blog. Control sidebars on the homepage from the &#39;Home Settings&#39; option."
+msgstr "Let op: zijbalken worden niet toegepast op de homepage blog. Beheer zijbalken op de homepage vanaf de &#39;Home instellingen&#39; optie."
+
+#: admin/main/options.php:2682
+msgid "Select blog page layout. Only applied to the main blog page and not individual posts."
+msgstr "Selecteer de lay-out van de blogpagina. Alleen toegepast op de hoofd blogpagina en niet op individuele berichten."
+
+#: admin/main-toolbox/toolbox.php:262 admin/main/options.php:2681
+msgid "Blog Layout"
+msgstr "Blog opmaak"
+
+#: admin/main/options.php:2603
+msgid "Use Custom RSS Icon"
+msgstr "Gebruik een aangepast RSS pictogram"
+
+#: admin/main/options.php:2553
+msgid "Enable link to RSS profile."
+msgstr "Schakel link naar RSS profiel in."
+
+#: admin/main/options.php:2552
+msgid "RSS"
+msgstr "RSS"
+
+#: admin/main/options.php:2454
+msgid "Enable link to YouTube profile."
+msgstr "Schakel link naar YouTube profiel in."
+
+#: admin/main/options.php:2453
+msgid "YouTube"
+msgstr "YouTube"
+
+#: admin/main/options.php:2355
+msgid "Enable link to Flickr profile."
+msgstr "Schakel link naar Flickr profiel in."
+
+#: admin/main/options.php:2354
+msgid "Flickr"
+msgstr "Flickr"
+
+#: admin/main/options.php:2256
+msgid "Enable link to LinkedIn profile."
+msgstr "Schakel link naar LinkedIn profiel in."
+
+#: admin/main/options.php:2255
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: admin/main/options.php:2157
+msgid "Enable link to Google+ profile."
+msgstr "Schakel link naar Google+ profiel in."
+
+#: admin/main/options.php:2156
+msgid "Google+"
+msgstr "Google+"
+
+#: admin/main/options.php:2058
+msgid "Enable link to Twitter profile."
+msgstr "Schakel link naar Twitter profiel in."
+
+#: admin/main/options.php:2057
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/main/options.php:2032 admin/main/options.php:2131
+#: admin/main/options.php:2230 admin/main/options.php:2329
+#: admin/main/options.php:2428 admin/main/options.php:2527
+#: admin/main/options.php:2626
+msgid "Add a link to the image or upload one from your desktop. The image will be resized."
+msgstr "Voeg een link toe naar de afbeelding of upload er een vanaf je desktop. Het formaat van de afbeelding wordt gewijzigd."
+
+#: admin/main/options.php:1959
+msgid "Enable link to Facebook profile."
+msgstr "Schakel link naar Facebook profiel in."
+
+#: admin/main/options.php:1958
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/main/options.php:1934
+msgid "Add a message here. E.g. &#34;Follow Us&#34;.<br />(Only shown in header)"
+msgstr "Voeg hier een bericht toe. Bijv. &#34;Volg ons&#34;.<br />(Alleen getoond in header)"
+
+#: admin/main/options.php:1880
+msgid "Enable Social Media Links (Footer)"
+msgstr "Schakel sociale media links in (Footer)"
+
+#: admin/main/options.php:1851 admin/main/options.php:1881
+msgid "Switch on to enable links to social media pages."
+msgstr "Schakel in om links naar sociale media-pagina's in te schakelen."
+
+#: admin/main/options.php:1850
+msgid "Enable Social Media Links (Pre Header)"
+msgstr "Links naar sociale media inschakelen (pre-header)"
+
+#: admin/main-toolbox/toolbox.php:249 admin/main-toolbox/toolbox.php:250
+#: admin/main/options.php:123
+msgid "Social Media"
+msgstr "Social media"
+
+#: admin/main/options.php:1791
+msgid "Check to enable scroll to top."
+msgstr "Vink aan om scrollen naar boven in te schakelen."
+
+#: admin/main/options.php:1790
+msgid "Enable Scroll To Top"
+msgstr "Scroll naar boven inschakelen"
+
+#: admin/main/options.php:1766
+msgid "Check to disable footer widgets."
+msgstr "Vink aan om footer widgets uit te schakelen."
+
+#: admin/main-toolbox/toolbox.php:238 admin/main/options.php:1765
+msgid "Disable Footer Widgets"
+msgstr "Footer widgets uitschakelen"
+
+#: admin/main/options.php:1721
+msgid "Select footer layout. Take complete control of the footer content by adding widgets."
+msgstr "Selecteer footer lay-out. Neem volledige controle over de inhoud van de footer door widgets toe te voegen."
+
+#: admin/main-toolbox/toolbox.php:226 admin/main/options.php:1720
+msgid "Footer Widgets Layout"
+msgstr "Footer widget lay-outs"
+
+#: admin/main-toolbox/toolbox.php:225 admin/main-toolbox/toolbox.php:237
+#: admin/main/options.php:113
+msgid "Footer"
+msgstr "Footer"
+
+#: admin/main/options.php:1606 admin/main/options.php:1661
+msgid "Switch on to enable header search."
+msgstr "Zet aan om zoeken in de header in te schakelen."
+
+#: admin/main/options.php:1660
+msgid "Enable Search (Main Header)"
+msgstr "Zoeken inschakelen (hoofd header)"
+
+#: admin/main-toolbox/toolbox.php:214 admin/main/options.php:1605
+msgid "Enable Search (Pre Header)"
+msgstr "Zoeken inschakelen (pre-header)"
+
+#: admin/main/options.php:1577
+msgid "Specify the pre header style."
+msgstr "Geef de pre-header stijl op."
+
+#: admin/main/options.php:1576
+msgid "Choose Pre Header Style"
+msgstr "Kies pre-header stijl"
+
+#: admin/main-toolbox/toolbox.php:213 admin/main/options.php:103
+msgid "Header"
+msgstr "Header"
+
+#: admin/main/options.php:1501
+msgid "Add some text to featured section 3."
+msgstr "Voeg wat tekst toe aan uitgelichte sectie 3."
+
+#: admin/main/options.php:1453
+msgid "Content Area 3"
+msgstr "Inhoudsgebied 3"
+
+#: admin/main/options.php:1407
+msgid "Add some text to featured section 2."
+msgstr "Voeg wat tekst toe aan uitgelichte sectie 2."
+
+#: admin/main/options.php:1359
+msgid "Content Area 2"
+msgstr "Inhoudsgebied 2"
+
+#: admin/main/options.php:1336 admin/main/options.php:1430
+#: admin/main/options.php:1524
+msgid "Link to a page"
+msgstr "Link naar een pagina"
+
+#: admin/main/options.php:1313
+msgid "Add some text to featured section 1."
+msgstr "Voeg wat tekst toe aan uitgelichte sectie 1."
+
+#: admin/main/options.php:1290 admin/main/options.php:1384
+#: admin/main/options.php:1478
+msgid "Add a title to the section."
+msgstr "Voeg een titel toe aan de sectie."
+
+#: admin/main/options.php:1266 admin/main/options.php:1360
+#: admin/main/options.php:1454
+msgid "Add an image for the section background."
+msgstr "Voeg een afbeelding toe voor de achtergrond van de sectie."
+
+#: admin/main/options.php:1265
+msgid "Content Area 1"
+msgstr "Inhoudsgebied 1"
+
+#: admin/main/options.php:1236
+msgid "switch on to enable pre-designed homepage layout."
+msgstr "schakel in om een vooraf ontworpen homepage lay-out in te schakelen."
+
+#: admin/main/options.php:1235
+msgid "Enable Pre-Made Homepage"
+msgstr "Vooraf gemaakte homepage inschakelen"
+
+#: admin/main/options.php:1181
+msgid "Input a custom url for the action button link. Add http:// if linking to an external webpage."
+msgstr "Voer een aangepaste URL in voor de actieknop link. Voeg http:// toe als je naar een externe webpagina linkt."
+
+#: admin/main/options.php:1180
+msgid "Button - Custom link"
+msgstr "Knop - Aangepaste link"
+
+#: admin/main/options.php:1157
+msgid "Select a target page for action button link."
+msgstr "Selecteer een doelpagina voor de actieknop link."
+
+#: admin/main/options.php:1156
+msgid "Button - Link to a page"
+msgstr "Knop - Link naar een pagina"
+
+#: admin/main/options.php:1128
+msgid "Specify whether the action button should link to a page on your site, out to external webpage or disable the link altogether."
+msgstr "Geef aan of de actieknop moet linken naar een pagina op je site, naar een externe webpagina of de link helemaal moet uitschakelen."
+
+#: admin/main/options.php:1127
+msgid "Button - Link"
+msgstr "Knop - Link"
+
+#: admin/main/options.php:1104
+msgid "Specify a text for button 1."
+msgstr "Geef een tekst op voor knop 1."
+
+#: admin/main/options.php:1103
+msgid "Button - Text"
+msgstr "Knop - Tekst"
+
+#: admin/main/options.php:1080
+msgid "Enter a <strong>teaser</strong> message.<br /><br />Use this to provide more details about what you offer."
+msgstr "Voer een <strong>teaser</strong> bericht in.<br /><br />Gebruik dit om meer details te geven over wat je aanbiedt."
+
+#: admin/main/options.php:1057
+msgid "Enter a <strong>title</strong> message.<br /><br />This will be one of the first messages your visitors see. Use this to get their attention."
+msgstr "Voer een <strong>titelbericht</strong> in.<br /><br />Dit zal een van de eerste berichten zijn die je bezoekers te zien krijgen. Gebruik dit om hun aandacht te trekken."
+
+#: admin/main/options.php:1034
+msgid "Check to enable intro on home page."
+msgstr "Vink aan om intro op homepage in te schakelen."
+
+#: admin/main/options.php:1033
+msgid "Message"
+msgstr "Bericht"
+
+#: admin/main/options.php:956
+msgid "Switch on to enable full-width slider."
+msgstr "Zet aan om slider over de volledige breedte in te schakelen."
+
+#: admin/main/options.php:955
+msgid "Enable Full-Width Slider"
+msgstr "Activeer slider over volledige breedte"
+
+#: admin/main/options.php:985
+msgid "Specify the maximum slider height (px)."
+msgstr "Geef de maximale hoogte van de slider (px) op."
+
+#: admin/main/options.php:984
+msgid "Slider Height (Max)"
+msgstr "Slider hoogte (max)"
+
+#: admin/main/options.php:558
+msgid "Switch on to enable home page slider."
+msgstr "Zet aan om de homepage slider in te schakelen."
+
+#: admin/main/options.php:557
+msgid "Choose Homepage Slider"
+msgstr "Kies homepage slider"
+
+#: admin/main/options.php:508 admin/main/options.php:2848
+msgid "Choose a sidebar to use with the layout."
+msgstr "Kies een zijbalk die bij de lay-out past."
+
+#: admin/main/options.php:478
+msgid "Select page layout. This will only be applied to static homepages (front page) and not to homepage blogs."
+msgstr "Selecteer pagina opmaak. Dit zal alleen worden toegepast op statische homepagina's (voorpagina) en niet op homepage blogs."
+
+#: admin/main-toolbox/toolbox.php:142 admin/main/options.php:477
+msgid "Homepage Layout"
+msgstr "Homepage lay-out"
+
+#: admin/main-toolbox/toolbox.php:141 admin/main-toolbox/toolbox.php:153
+#: admin/main-toolbox/toolbox.php:165 admin/main-toolbox/toolbox.php:177
+#: admin/main/options.php:83
+msgid "Homepage"
+msgstr "Startpagina"
+
+#: admin/main/options.php:367
+msgid "Breadcrumb Delimiter"
+msgstr "Kruimelpad scheidingsteken"
+
+#: admin/main/options.php:339
+msgid "Switch on to enable breadcrumbs."
+msgstr "Zet aan om kruimelpad in te schakelen."
+
+#: admin/main-toolbox/toolbox.php:130 admin/main/options.php:338
+msgid "Enable Breadcrumbs"
+msgstr "Kruimelpad inschakelen"
+
+#: admin/main-toolbox/toolbox.php:118 admin/main/options.php:308
+msgid "Enable Fixed Layout"
+msgstr "Inschakelen vaste lay-out"
+
+#: admin/main/options.php:283
+msgid "Choose a sidebar to use with the page layout."
+msgstr "Kies een zijbalk die bij de pagina lay-out past."
+
+#: admin/main/options.php:282 admin/main/options.php:507
+#: admin/main/options.php:2711 admin/main/options.php:2847
+msgid "Select a Sidebar"
+msgstr "Selecteer een zijbalk"
+
+#: admin/main-toolbox/toolbox.php:106 admin/main/options.php:252
+msgid "Page Layout"
+msgstr "Pagina lay-out"
+
+#: admin/main/options.php:175
+msgid "Logo Settings"
+msgstr "Logo instellingen"
+
+#: admin/main-toolbox/toolbox.php:105 admin/main-toolbox/toolbox.php:117
+#: admin/main-toolbox/toolbox.php:129 admin/main/options.php:73
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: admin/main/options.php:64
+msgid "Use the options below to customize your theme!"
+msgstr "Gebruik de opties hieronder om je thema aan te passen!"
+
+#: admin/main/options.php:63
+msgid "Theme Options"
+msgstr "Thema opties"
+
+#: admin/main/options/05.blog.php:485
+msgid "Your comment is awaiting moderation."
+msgstr "Jouw reactie is in afwachting van moderatie."
+
+#: admin/main/options/05.blog.php:471 admin/main/options/05.blog.php:499
+msgid "Edit"
+msgstr "Bewerkend"
+
+#: admin/main/options/05.blog.php:471
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: admin/main/options/05.blog.php:274
+msgid "View all posts by %s"
+msgstr "Toon alle berichten van %s"
+
+#: admin/main/options/05.blog.php:272
+msgid "<span class=\"author\"><a href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr "<span class=\"author\"><a href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+
+#: admin/main/options/05.blog.php:250 admin/main/options/05.blog.php:261
+msgid ", "
+msgstr ", "
+
+#: admin/main/options/05.blog.php:242
+msgid "<span class=\"comment-count\">%</span> <span class=\"comment-text\">Comments</span>"
+msgstr "<span class=\"comment-count\">%</span> <span class=\"comment-text\">Reacties</span>"
+
+#: admin/main/options/05.blog.php:242
+msgid "<span class=\"comment-count\">1</span> <span class=\"comment-text\">Comment</span>"
+msgstr "<span class=\"comment-count\">1</span> <span class=\"comment-text\">Reactie</span>"
+
+#: admin/main/options/05.blog.php:242
+msgid "<span class=\"comment-count\">0</span> <span class=\"comment-text\">Comments</span>"
+msgstr "<span class=\"comment-count\">0</span> <span class=\"comment-text\">Reacties</span>"
+
+#: admin/main/options/05.blog.php:228
+msgid "<span class=\"date\"><a href=\"%1$s\" title=\"%2$s\"><time datetime=\"%3$s\"><span class=\"date-month\">%4$s</span></time></a></span>"
+msgstr "<span class=\"date\"><a href=\"%1$s\" title=\"%2$s\"><time datetime=\"%3$s\"><span class=\"date-month\">%4$s</span></time></a></span>"
+
+#: admin/main/options/05.blog.php:220
+msgid "Sticky"
+msgstr "Sticky"
+
+#: admin/main/options/05.blog.php:80 content.php:14
+msgid "Permalink to %s"
+msgstr "Permalink naar %s"
+
+#: admin/main/options/04.footer.php:83
+msgid "Remove this message by adding widgets to Footer Widget Area 6."
+msgstr "Verwijder dit bericht door widgets toe te voegen aan footer widget gebied 6."
+
+#: admin/main/options/04.footer.php:70
+msgid "Remove this message by adding widgets to Footer Widget Area 5."
+msgstr "Verwijder dit bericht door widgets toe te voegen aan footer widget gebied 5."
+
+#: admin/main/options/04.footer.php:57
+msgid "Remove this message by adding widgets to Footer Widget Area 4."
+msgstr "Verwijder dit bericht door widgets toe te voegen aan footer widget gebied 4."
+
+#: admin/main/options/04.footer.php:44
+msgid "Remove this message by adding widgets to Footer Widget Area 3."
+msgstr "Verwijder dit bericht door widgets toe te voegen aan footer widget gebied 3."
+
+#: admin/main/options/04.footer.php:31
+msgid "Remove this message by adding widgets to Footer Widget Area 2."
+msgstr "Verwijder dit bericht door widgets toe te voegen aan footer widget gebied 2."
+
+#: admin/main/options/04.footer.php:19 admin/main/options/04.footer.php:32
+#: admin/main/options/04.footer.php:45 admin/main/options/04.footer.php:58
+#: admin/main/options/04.footer.php:71 admin/main/options/04.footer.php:84
+#: sidebar.php:19
+msgid "Click here to go to Widget area."
+msgstr "Klik hier om naar widget gebied te gaan."
+
+#: admin/main/options/04.footer.php:19 admin/main/options/04.footer.php:32
+#: admin/main/options/04.footer.php:45 admin/main/options/04.footer.php:58
+#: admin/main/options/04.footer.php:71 admin/main/options/04.footer.php:84
+#: sidebar.php:19
+msgid "No Widgets Selected"
+msgstr "Geen widgets geselecteerd"
+
+#: admin/main/options/04.footer.php:18
+msgid "Remove this message by adding widgets to Footer Widget Area 1."
+msgstr "Verwijder dit bericht door widgets toe te voegen aan footer widget gebied 1."
+
+#: admin/main/options/04.footer.php:16 admin/main/options/04.footer.php:29
+#: admin/main/options/04.footer.php:42 admin/main/options/04.footer.php:55
+#: admin/main/options/04.footer.php:68 admin/main/options/04.footer.php:81
+#: sidebar.php:16
+msgid "Please Add Widgets"
+msgstr "Voeg widgets toe"
+
+#: admin/main/options/02.homepage.php:153
+#: admin/main/options/02.homepage.php:341
+#: admin/main/options/02.homepage.php:343
+#: admin/main/options/02.homepage.php:345
+#: admin/main/options/02.homepage.php:463 admin/main/options/05.blog.php:297
+msgid "Read More"
+msgstr "Lees meer"
+
+#: admin/main/options/02.homepage.php:118
+msgid "Slider Image"
+msgstr "Slider afbeelding"
+
+#. Translators: Translate this to 'off' if there are characters in your
+#. language that are not supported by Lato
+#: admin/main/options/00.theme-setup.php:450
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: admin/main/options/00.theme-setup.php:223
+msgid "Error 404 - Not Found."
+msgstr "Fout 404 - Niet gevonden."
+
+#: admin/main/options/00.theme-setup.php:221
+msgid "Archived Article(s) by Author: "
+msgstr "Gearchiveerde artikel(en) door auteur: "
+
+#: admin/main/options/00.theme-setup.php:206
+msgid "Search Results for: "
+msgstr "Zoekresultaten voor:"
+
+#: admin/main/options/00.theme-setup.php:197
+msgid "Posts Tagged: "
+msgstr "Berichten getagd: "
+
+#: admin/main/options/00.theme-setup.php:195
+msgid "Archive Category: "
+msgstr "Archief categorie: "
+
+#: admin/main/options/00.theme-setup.php:144
+msgid "Home"
+msgstr "Home"
+
+#: admin/main-toolbox/toolbox.php:261 admin/main-toolbox/toolbox.php:273
+#: admin/main-toolbox/toolbox.php:286 admin/main-toolbox/toolbox.php:298
+#: admin/main/options.php:133 admin/main/options/00.theme-setup.php:108
+#: admin/main/options/00.theme-setup.php:229
+msgid "Blog"
+msgstr "Site"
+
+#: admin/main-toolbox/toolbox.php:474
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: admin/main/options/00.theme-setup.php:102
+msgid "Yearly Archives: "
+msgstr "Jaarlijkse Archives:"
+
+#: admin/main/options/00.theme-setup.php:100
+msgid "Monthly Archives: "
+msgstr "Maandelijks Archief:"
+
+#: admin/main/options/00.theme-setup.php:98
+msgid "Daily Archives: "
+msgstr "Dagelijks Archief:"
+
+#: admin/main/options/00.theme-setup.php:95
+msgid "Author Archives: "
+msgstr "Auteur archieven: "
+
+#: admin/main/options/00.theme-setup.php:92
+msgid "Tag Archives: "
+msgstr "Tag archieven: "
+
+#: admin/main/options/00.theme-setup.php:90
+msgid "Category Archives: "
+msgstr "Categorie archieven: "
+
+#: admin/main/options/00.theme-setup.php:88
+msgid "Page Not Found"
+msgstr "Pagina niet gevonden"
+
+#: admin/main/options/00.theme-setup.php:86
+msgid "Search Results: "
+msgstr "Zoekresultaten: "
+
+#: admin/main/options/00.theme-setup.php:82
+msgid "Blog Post Image: "
+msgstr "Blog bericht afbeelding: "
+
+#: admin/main/options.php:312 admin/main/options.php:342
+#: admin/main/options.php:421 admin/main/options.php:959
+#: admin/main/options.php:1239 admin/main/options.php:1609
+#: admin/main/options.php:1664 admin/main/options.php:1794
+#: admin/main/options.php:1854 admin/main/options.php:1884
+#: admin/main/options.php:1962 admin/main/options.php:2061
+#: admin/main/options.php:2160 admin/main/options.php:2259
+#: admin/main/options.php:2358 admin/main/options.php:2457
+#: admin/main/options.php:2556 admin/main/options.php:2877
+msgid "Off"
+msgstr "Uit"
+
+#: admin/main/options.php:311 admin/main/options.php:341
+#: admin/main/options.php:420 admin/main/options.php:958
+#: admin/main/options.php:1238 admin/main/options.php:1608
+#: admin/main/options.php:1663 admin/main/options.php:1793
+#: admin/main/options.php:1853 admin/main/options.php:1883
+#: admin/main/options.php:1961 admin/main/options.php:2060
+#: admin/main/options.php:2159 admin/main/options.php:2258
+#: admin/main/options.php:2357 admin/main/options.php:2456
+#: admin/main/options.php:2555 admin/main/options.php:2876
+msgid "On"
+msgstr "Aan"
+
+#: lib/plugins/class-tgm-plugin-activation.php:2463
+msgid "Active"
+msgstr "Activeer"
+
+#: admin/main/options.php:685 admin/main/options.php:808
+#: admin/main/options.php:931
+msgid "URL"
+msgstr "URL"
+
+#: admin/main/options.php:661 admin/main/options.php:784
+#: admin/main/options.php:907
+msgid "Description"
+msgstr "Beschrijving"
+
+#: admin/main/options.php:637 admin/main/options.php:760
+#: admin/main/options.php:883
+msgid "Title"
+msgstr "Titel"
+
+#: admin/main/options.php:561
+msgid "Disable"
+msgstr "Onbruikbaar maken"
+
+#: 404.php:12
+msgid "Please try using the search function."
+msgstr "Probeer de zoekfunctie te gebruiken."
+
+#: 404.php:12
+msgid "Sorry, we could not find the page you are looking for."
+msgstr "We konden de pagina die je zoekt niet vinden."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.thinkupthemes.com"
+msgstr "https://www.thinkupthemes.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ThinkUpThemes"
+msgstr "ThinkUpThemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.thinkupthemes.com/free/melos-free/"
+msgstr "https://www.thinkupthemes.com/free/melos-free/"
